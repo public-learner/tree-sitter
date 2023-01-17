@@ -1,4 +1,4 @@
-# tree-sitter-git-rebase
+### tree-sitter-git-rebase
 
 A tree-sitter grammar for git's interactive rebase file.
 
